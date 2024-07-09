@@ -7,7 +7,7 @@ O Plann.er é uma aplicação web Focada no front end que permite aos usuários 
 
 Linguagem: Typescript
 Framework: Vite e React
-Front-end: HTML, CSS e JavaScript
+Front-end: HTML, CSS e JavaScript e tailwind
 
 
 🛠️ Ferramentas Utilizadas
@@ -17,6 +17,8 @@ React
 HTML
 CSS
 JavaScript
+tailwind
+
 
 🚀 Executando o Projeto
 Siga as instruções abaixo para executar o projeto em seu ambiente local:
